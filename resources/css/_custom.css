@@ -1,0 +1,65 @@
+.item-custom-thumb-trend {
+    width: 306px;
+}
+
+.custom-thumb-trend {
+    width: 100% !important;
+    height: 306px !important;
+}
+.custom-thumb-trend img {
+    height: 100% !important;
+    width: 100% !important;
+    display: block;
+}
+
+.custom-thumb-mostplay {
+    height: 195px !important;
+    width: 100% !important;
+}
+.custom-thumb-mostplay img {
+    height: 100% !important;
+    width: 100% !important;
+    display: block;
+}
+
+.item-custom-thumb-shop {
+    width: 306px;
+}
+.custom-thumb-shop {
+    width: 100% !important;
+    height: 286px !important;
+
+    img {
+        width: 100% !important;
+        height: 100% !important;
+        display: block;
+    }
+}
+
+.singel-similar-item {
+    width: 240px !important;
+    height: 289px !important;
+}
+.singel-similar {
+    width: 240px !important;
+    height: 224px !important;
+
+    img {
+        height: 100% !important;
+        width: 100% !important;
+        display: block;
+    }
+}
+
+.left-image {
+    img {
+        height: 653px !important;
+        width: 536px !important;
+    }
+}
+.image-in {
+    img {
+        display: block;
+        margin: 30px auto;
+    }
+}

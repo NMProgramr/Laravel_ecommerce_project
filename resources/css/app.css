@@ -1,0 +1,15 @@
+
+
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "fontawesome.css";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "templatemo-lugx-gaming.css";
+@import "owl.css";
+@import "animate.css";
+@import "fonts.css";
+@import "swiper/css";
+@import "_custom.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
